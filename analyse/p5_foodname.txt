@@ -1,0 +1,135 @@
+Onions, yello
+Onions, red
+Melons, cantaloupe
+Cantaloupe
+Grapefruit juice white
+bananas, overripe
+Oranges, navel
+Onions, white
+Kale, frozen
+Carrots, sliced
+Peaches
+Sauce, pasta, prego 100% Natural Italian
+Sauce, pasta, hunts original
+Pears, Bartlett
+Salsa
+Kiwi
+Strawberries, Fresh
+Tomatoes, diced, canned
+Peaches
+Ketchup
+Mission Figs, Dried
+Nectarines
+Apples, red delicious
+Kale, Fresh
+Beans, snap, canned
+Flour, corn, enriched
+Sauce, pasta, ragu old world
+Yogurt, Greek, strawberry, non-fat
+Lettuce, Romaine, fresh
+Broccoli
+Niacin, Pickles, kosher dill, spears, VLASIC
+Sugars, Sugar, Granulated, white
+Sugars, granulated
+OATMEAL COOKIES WITH RAISINS, PEPPERIDGE FARM SOFT BAKED
+Niacin, Sweet And Sour Pork, Chinese restaurant (IN1,NY1) - NFY0903IB
+Ham
+Sugars, white bread, store brand, mixed composite (IN1,NY1) - NFY0907G6
+Tocopherols, Whole wheat bread, NATURES OWN (FL,NC) - NFY1204Q0
+TOMATOES, GRAPE
+Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)
+Beans, Dry, Dark red Kidney, 11F-8074 (0% moisture)
+FLOUR, PASTRY, white (UNENRICHED) (UNBLEACHED)
+FLOUR, RICE, GLUTENOUS
+Flour, all-purpose, enriched
+GARLIC
+Flour, whole wheat, unenriched
+Flour, bread, white, enriched
+Tocopherols, Greek yogurt, CHOBANI PLAIN NON-FAT (AL1,CA1) - NFY091103
+FLOUR, RICE, BROWN (ORGANIC)
+Flour, Rice, white, unenriched
+Tocopherols, Onion rings, frozen, ALEXIA (FL,MO) - NFY120685
+Whole eggs, dried
+Egg yolks, dried
+MILK, 1%
+Fatty Acids, Pollock, raw (CT) - NFY060DMU
+Restaurant, Latino, pupusas con frijoles (pupusas, bean)
+Mustard, yello, Prepared, French's Classic yello Mustard, Vitmain E - NFY0210KZ
+Starch, Pupusas, Bean, flat stuffed corn biscuit (CA-AL,IL) - NFY0901V9
+Egg whites
+FLOUR, SOY (DEFATTED)
+MILK, 2% 
+Egg yolk
+MILK, SKIM 
+Fatty Acids, Haddock, raw (CT) - NFY060CMM
+Fatty Acids, Cottage cheese, 2% milkfat, BREAKSTONE (CT,NC) - NFY120BN5
+MILK, WHOLE 
+Fatty Acids, Oil, coconut, LOU ANA (NC) - NFY120PDM
+Mustard, yello, Prepared, Store Brand, Vitmain E - NFY0210N2
+Cholesterol, Tamale, Pork (NM) - NFY09029J
+Niacin, Mustard, yello, FRENCHS CLASSIC (CO,CT) - NFY120HZD
+Tuna, chunk light, canned in water, drained solids 
+Pantothenic acid, Chicken, dark meat, lean only, drumstick, raw, non-enhanced (National) - 14B-04-01-B5
+Sugars, Chinese Restaurant, Fried Rice (No Meat) (IN,NY) - NFY1209OW
+Hummus
+Hummus, commercial
+Fatty Acids, Tuna, canned, in water, drained solids,  BUMBLEBEE CHUNK LIGHT, IN WATER  (CO,CT) - NFY090S1B
+Fatty Acids, Peanut butter, creamy, SKIPPY (MI) - NFY120C7X
+Peanut butter, smooth style, with salt
+Amino Acids, Ground turkey, 93% lean, 7% fat, raw
+TURKEY BREAKFAST SAUSAGE, HONEYSUCKLE white
+Lunchmeat, ham - NFY1210O9
+Almonds dry roasted salted
+Sunflower seeds dry roasted salted
+Niacin, Cheese, dry white, Queso seco, mixed composite
+Bacon, cooked
+CHEESE, RICOTTA, WHOLE MILK, GALBANI
+Niacin, American cheese, pasteurized process, KRAFT - NFY090HJK
+Fatty Acids, Mozzarella cheese, low-moisture, part-skim, SARGENTO
+EGG, GRADE A, LARGE, WHOLE, RAW, FRESH
+Whole eggs
+BUTTER, STICK, UNSALTED
+Canola oil
+Olives, green, stuffed with pimentos - NFY1213O8
+Fatty Acids, Cheddar cheese, sliced, CRACKER BARREL
+Olive oil, extra virgin
+Niacin, Cheese, cheddar, natural shredded mild, KRAFT
+Cheese, swiss, slices (FL) - 18c-16-04-FA
+Niacin, Cheese, cheddar, natural shredded sharp, store brand, GREAT VALUE
+Parmesan cheese, grated, KRAFT 100% (FL,MO) - NFY120DS2
+Parmesan cheese, grated, store brand/other brand
+Cheese, cheddar, sharp, block/chunk KRAFT
+Pork, cured, bacon, cooked, restaurant
+Cheese, cheddar, mild, block/chunk KRAFT
+Beef, round, top round roast, boneless, separable lean only,raw
+Beef, round, eye of round roast, boneless,raw
+Italian pork sausage, store/other, cooked
+Chicken, breast, skinless, boneless, braised
+Soybean oil
+Frankfurter, beef, unheated
+Hot dogs, beef
+Beef breakfast sausage, eckrich sausage links
+Sausage, breakfast sausage, beef, pre-cooked
+Oil, corn
+Beef, Tenderloin Roast, select, roasted, lean
+Beef, short loin, porterhouse steak, raw
+Chicken, drumstick, meat only, braised
+Chicken, skin, raw, from drumsticks and thighs
+Beef, Top Round roast/steak, select, raw, lean
+Beef, Porterhouse Steak, select, raw, lean
+Beef, Top Loin steak, boneless, choice, raw, lean
+Chicken, dark meat, lean only, drumstick, braised
+Chicken, dark meat, lean only, drumstick, roasted
+Chicken, skin, braised, from drumsticks and thighs
+Chicken, skin, roasted, from drumsticks and thighs
+Beef, short loin, t-bone steak, bone-in, grilled
+Beef, Eye of Round roast/steak, select, raw
+Chicken breasts, boneless, skinless, braised
+Chicken, dark meat, lean only, thigh, roasted
+Chicken, dark meat, lean only, thigh, braised
+Beef, T-bone Steak, U_choice, grilled
+Beef breakfast sausage
+Ground turkey, 93% lean 7% fat, pan-broiled
+Chorizo pork sausage, mixed brand, cooked
+Ground turkey, 93% lean 7% fat, broiled
+Beef breakfast sausage, maple flavor
